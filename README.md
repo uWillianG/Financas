@@ -15,8 +15,8 @@ Estrutura do Projeto:
  - Dashboard.py: Script que gera um dashboard para visualização dos dados e resultados.
 
 Licença:
-Este projeto está licenciado sob a MIT License.
+este projeto está licenciado sob a MIT License.
 
 Contato:
-Desenvolvido por uWillianG.
+desenvolvido por uWillianG.
  
