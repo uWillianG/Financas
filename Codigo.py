@@ -42,20 +42,20 @@ que vou te enviar.
 Todos são transações financeiras de uma pessoa física.
 
 Escolha uma dentre as seguintes categorias:
-- Alimentação - tudo que tem "chopp" e "ifood" na descrição
-- Salário - tudo que tem "Ost" na descrição
-- Mercado - tudo que tem "macromix" na descrição
-- Saúde - tudo que tem "academia" na descrição
-- Educação - tudo que tem "liberato" na descrição
+- Alimentação
+- Salário
+- Mercado
+- Saúde
+- Educação
 - Compras
 - Transporte
 - Investimento
-- Aparência - tudo que tem "Joana" e "AUGUSTO DIAS" na descrição
+- Aparência
 - Telefone
-- Transferência para terceiros - tudo que tem nome de pessoa, menos Joana e Augusto na descrição
+- Transferência para terceiros
 - Entretenimento
 - Lazer
-- Pagamento de contas - tudo que tem "FATURA" na descrição
+- Pagamento de contas
 
 Escolha a categoria deste item:
 {text}
