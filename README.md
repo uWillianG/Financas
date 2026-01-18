@@ -1,4 +1,4 @@
-# Financas
+# Finanças
 
 Financas é uma aplicação de Inteligência Artificial que classifica automaticamente o tipo de transação bancária. Este projeto tem como objetivo facilitar a categorização de movimentações financeiras, auxiliando na análise de gastos e na gestão orçamentária.
 
